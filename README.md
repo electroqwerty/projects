@@ -31,6 +31,24 @@ This project involved creating a multitask learning model trained on the UTKFace
 - Implemented data curation and removal of outliers.
 - Developed models using ResNet18 and evaluated performance.
 
+
+
+### 4. [Soccer Match Outcome Prediction](https://github.com/electroqwerty/projects-socker_prediction_project)
+
+This project aimed to predict soccer match outcomes using various approaches. It involved aggregating team-specific features, assessing multicollinearity, and finalizing feature selection to build predictive models.
+
+**Key Aspects:**
+- Built logistic regression and random forest models.
+- Conducted multicollinearity analysis using VIF and correlation.
+- Performed extensive feature engineering and statistical tests.
+- Visualized data aspects and performed EDA.
+
+## How to Navigate
+
+Each project link above will take you to a dedicated repository where you can find detailed descriptions, code, and documentation. Feel free to explore and reach out if you have any questions or feedback!
+
+
+
 ## How to Navigate
 
 Each project link above will take you to a dedicated repository where you can find detailed descriptions, code, and documentation. Feel free to explore and reach out if you have any questions or feedback!
