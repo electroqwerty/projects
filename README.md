@@ -43,11 +43,6 @@ This project aimed to predict soccer match outcomes using various approaches. It
 - Performed extensive feature engineering and statistical tests.
 - Visualized data aspects and performed EDA.
 
-## How to Navigate
-
-Each project link above will take you to a dedicated repository where you can find detailed descriptions, code, and documentation. Feel free to explore and reach out if you have any questions or feedback!
-
-
 
 ## How to Navigate
 
